@@ -5,7 +5,7 @@ Every been hitting vim or emacs and forget to make your daily todo list but don'
 
 Todo is the fast and easy way to make your todo list fast and easy.
 
-Only one environmental variable is needed which is TODO to pick the directory the lists go to.
+Only one environmental variable is needed which is $TODO to pick the directory the lists go to.
 If TODO is not yet intialized, then it defaults to the $HOME directory
 
 To make a new list text file:
